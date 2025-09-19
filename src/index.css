@@ -1,0 +1,11 @@
+
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+body {
+  font-family: 'Comic Neue', cursive;
+}
+.font-bangers {
+  font-family: 'Bangers', cursive;
+}
